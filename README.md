@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project focuses on analyzing Netflix dataset using SQL to extract meaningful insights.  
-It covers real-world business problems and demonstrates strong SQL skills required for data analyst roles.
+It covers 20 real-world business problems and demonstrates strong SQL skills required for data analyst roles.
 
 ---
 
