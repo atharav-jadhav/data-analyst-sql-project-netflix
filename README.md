@@ -86,6 +86,3 @@ This project helped in strengthening SQL skills and understanding how to solve r
 ## Author
 
 Atharav Jadhav
-
-
-[Your Name]
