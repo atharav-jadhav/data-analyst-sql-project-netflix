@@ -23,6 +23,8 @@ The dataset contains information about Netflix content, including:
 - Genre (Listed In)  
 - Description  
 
+**Dataset Link:** [Netflix Shows Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+
 ---
 
 ## Objectives
